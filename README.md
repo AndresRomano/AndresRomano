@@ -3,7 +3,7 @@ ESP:<br>👋 ¡Hola! Soy un entusiasta de la tecnología con formación en infor
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrés-aldebarán-romano-marino-967314254) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/andrés-aldebarán-romano-marino-967314254) 
 </a></a><a href="mailto:andresromano97@gmail.com"><img width="30" src="https://skillicons.dev/icons?i=gmail" alt="GMail" /></a>
 
 # 💻 Tech Stack:
